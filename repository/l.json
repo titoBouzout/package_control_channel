@@ -33,6 +33,19 @@
 			]
 		},
 		{
+			"name": "Language - Spanish",
+			"description": "Spanish spelling language for Sublime Text - Diccionario de Español para Sublime Text",
+			"author": ["CAERMALO"],
+			"details": "https://github.com/CAERMALO/Language_-_Spanish",
+			"labels": ["spell check", "dictionary", "spanish"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Language - Up-Goer-5",
 			"details": "https://github.com/serialhex/Language---Up-Goer-5",
 			"releases": [
@@ -59,6 +72,18 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "LanguagePortuguese",
+			"details": "https://github.com/gusbemacbe/LanguagePortuguese",
+			"labels": ["spell check", "brasil", "brazil", "brazilian", "dicionário", "dictionnary", "português", "portuguese", "portugal"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -139,6 +164,16 @@
 			]
 		},
 		{
+			"name": "Laravel Blade AutoComplete",
+			"details": "https://github.com/ahmedash95/sublime-laravel-blade-autocomplete",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Laravel Blade Spacer",
 			"previous_names": ["Blade Spacer"],
 			"details": "https://github.com/austenc/blade-spacer",
@@ -193,6 +228,16 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Laravel Docs",
+			"details": "https://github.com/austenc/sublime-laravel-docs",
+			"releases": [
+				{
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -456,6 +501,16 @@
 			]
 		},
 		{
+			"name": "LC2200 Assembly",
+			"details": "https://github.com/driazati/lc2200-sublime",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "LC3 Assembly",
 			"details": "https://github.com/wufufufu/Sublime-LC3",
 			"releases": [
@@ -469,16 +524,6 @@
 			"name": "LC4 Assembly Syntax",
 			"details": "https://github.com/meepzh/lc4-assembly-syntax",
 			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "LD library Path",
-			"details": "https://github.com/nicolas-cherel/LDLibPath",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -582,10 +627,11 @@
 		{
 			"name": "LESS",
 			"details": "https://github.com/danro/LESS-sublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -868,6 +914,22 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "LinesMultisets",
+			"details": "https://github.com/heldev/sublime-lines-multisets",
+			"labels": [
+				"text manipulation",
+				"diff",
+				"difference",
+				"merge"
+			],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -1325,6 +1387,17 @@
 			]
 		},
 		{
+			"name": "LOLCODE",
+			"details": "https://github.com/ofekih/lolcode-sublime",
+			"labels": ["lolcode"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "London Underground Status",
 			"details": "https://github.com/sabarasaba/sublimetext-LondonUnderground",
 			"labels": ["london", "tube", "underground"],
@@ -1475,6 +1548,19 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "LuaComplete",
+			"details": "https://github.com/FourierTransformer/LuaComplete-Sublime",
+			"labels": [
+				"auto-complete", "snippets", "lua"
+			],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

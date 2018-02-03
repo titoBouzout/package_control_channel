@@ -46,6 +46,19 @@
 			]
 		},
 		{
+			"name": "DA CS",
+			"details": "https://github.com/ihodev/sublime-da-cs",
+			"labels": ["popular", "customizable", "color scheme"],
+			"readme": "https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/pkgctrl/README.md",
+			"issues": "https://github.com/ihodev/sublime-da-ui/issues",
+			"releases": [
+				{
+					"sublime_text": ">=3143",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Dafny",
 			"details": "https://github.com/tvi/sublime-dafny",
 			"labels": ["language syntax"],
@@ -237,6 +250,17 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "DBpedia Lookup",
+			"details": "https://github.com/rvolz/sublime_dbpedia_lookup",
+			"labels": ["search", "dbpedia", "dbpedia-lookup"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -478,6 +502,16 @@
 			]
 		},
 		{
+			"name": "DevDocs offline",
+			"details": "https://github.com/hectorqin/sublime-devdocs",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Devicetree DTS Highlighting",
 			"details": "https://github.com/fallrisk/devicetree-highlighter",
 			"donate": "https://paypal.me/jwatson5",
@@ -694,6 +728,17 @@
 			]
 		},
 		{
+			"name": "Discord Rich Presence",
+			"details": "https://github.com/Snazzah/SublimeDiscordRP",
+			"author": ["Snazzah", "FichteFoll"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Disk Inventory X",
 			"details": "https://github.com/RShergold/sublime-disk-inventory",
 			"releases": [
@@ -721,18 +766,6 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "distractionless",
-			"details": "https://github.com/jrappen/sublime-distractionless",
-			"donate": "https://www.paypal.me/jrappen",
-			"labels": ["automation", "distraction-free", "fullscreen"],
-			"releases": [
-				{
-					"sublime_text": ">=3116",
 					"tags": true
 				}
 			]
@@ -1333,6 +1366,16 @@
 			]
 		},
 		{
+			"name": "Duckyscript Syntax",
+			"details": "https://github.com/bugbone/duckyscript-st3",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Dumbest Ipsum",
 			"details": "https://github.com/victorlaerte/dumbest-ipsum",
 			"author": "Victor Laerte",
@@ -1387,6 +1430,16 @@
 		{
 			"name": "Duotones Colorschemes",
 			"details": "https://github.com/atelierbram/duotones-sublime-colorschemes",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Duplicate And Increment",
+			"details": "https://github.com/112KA/duplicate_and_increment",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1455,6 +1508,16 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "DXR",
+			"details": "https://github.com/snorp/sublime-text-dxr",
+			"releases": [
+				{
+					"sublime_text": "*",
 					"tags": true
 				}
 			]

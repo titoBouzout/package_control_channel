@@ -90,6 +90,15 @@
 			]
 		},
 		{
+			"details": "https://github.com/hsarret/Waza",
+			"releases": [
+				{
+					"sublime_text": ">=3143",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "WD AngularJS Snippets",
 			"details": "https://github.com/k3v3n/wd-angular-js-snippets",
 			"labels": ["autocomplete", "snippets"],
@@ -284,6 +293,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "WEOML Syntax",
+			"details": "https://github.com/damky/WEOML",
+			"labels": ["weo", "keys", "syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -518,18 +538,6 @@
 			]
 		},
 		{
-			"name": "wkhtmltopdf",
-			"details": "https://github.com/jrappen/sublime-wkhtmltopdf",
-			"donate": "https://www.paypal.me/jrappen",
-			"labels": ["html", "pdf", "utilities", "utils"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "WLST",
 			"details": "https://github.com/Joelith/sublime-wlst",
 			"releases": [
@@ -685,6 +693,16 @@
 			]
 		},
 		{
+			"name": "WordPress Code Reference",
+			"details": "https://github.com/maheshwaghmare/sublime-wordpress-code-reference",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "WordPress Completions",
 			"details": "https://github.com/kallookoo/sublime-text-wordpress",
 			"releases": [
@@ -723,6 +741,16 @@
 				{
 					"sublime_text": ">=3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "WordPress Internationalization (i18n)",
+			"details": "https://github.com/maheshwaghmare/sublime-wp-i18n",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -841,9 +869,9 @@
 			]
 		},
 		{
-			"name": "wpseek.com WordPress Developer Assistant",
+			"name": "wpseek WordPress Developer Assistant",
 			"details": "https://github.com/wpseek/sublime-text-2-wpseek",
-			"previous_names": ["wpseek.com WordPress Function Lookup"],
+			"previous_names": ["wpseek.com WordPress Developer Assistant", "wpseek.com WordPress Function Lookup"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -867,7 +895,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -880,11 +908,11 @@
 					"branch": "master"
 				}
 			]
-		},		
+		},
 		{
 			"name": "WrapIt",
 			"description": "Wrap Contents With Specific Code",
-			"details": "https://github.com/pyking2/WrapIt",				
+			"details": "https://github.com/pyking2/WrapIt",
 			"previous_names": ["Wrapper"],
 			"labels": ["text manipulation"],
 			"releases": [

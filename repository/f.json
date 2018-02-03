@@ -79,6 +79,19 @@
 			]
 		},
 		{
+			"name": "FactoryBot",
+			"details": "https://github.com/tinogomes/Sublime-FactoryBot-Snippets",
+			"readme": "https://raw.githubusercontent.com/tinogomes/Sublime-FactoryBot-Snippets/master/README.md",
+			"author": "Celestino Gomes (tinogomes)",
+			"labels": ["snippets", "ruby", "test", "rspec", "factory"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "FactoryBoy",
 			"details": "https://github.com/mgaitan/sublime-factoryboy",
 			"labels": ["snippets"],
@@ -175,6 +188,17 @@
 			"author": "Easton Lee",
 			"labels": ["dictionary", "English", "word2vec"],
 			"donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5FBKLLDUX9KKY&lc=US&item_name=EastonLee&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Fanhuaji",
+			"details": "https://github.com/Fanhuaji/Sublime-Fanhuaji",
+			"labels": ["zhconvert", "chinese", "translation", "繁化姬", "中文", "簡", "繁"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -466,6 +490,17 @@
 			]
 		},
 		{
+			"name": "file-downloader",
+			"details": "https://github.com/fcannizzaro/sublime-file-downloader",
+			"labels": ["url (file) download/open"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "FileBinder",
 			"details": "https://github.com/JeroenVdb/FileBinder",
 			"labels": ["file navigation"],
@@ -700,6 +735,16 @@
 			]
 		},
 		{
+			"name": "Filter Code",
+			"details": "https://github.com/happyqingye/FilterCode",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Filter Lines",
 			"details": "https://github.com/davidpeckham/sublime-filterlines",
 			"labels": ["search"],
@@ -885,12 +930,14 @@
 			]
 		},
 		{
-			"name": "fish-shell",
-			"details": "https://github.com/toru-hamaguchi/sublime-fish-shell",
+			"name": "fish",
+			"previous_names": ["fish-shell"],
+			"details": "https://github.com/Phidica/sublime-fish",
+			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -962,6 +1009,17 @@
 		{
 			"name": "Flask Completions",
 			"details": "https://github.com/geekpradd/Flask-Sublime",
+			"labels": ["auto-complete", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Flask Hello",
+			"details": "https://github.com/tanrax/SublimeFlaskHello",
 			"labels": ["auto-complete", "snippets"],
 			"releases": [
 				{
@@ -1607,6 +1665,16 @@
 		{
 			"name": "Fuse",
 			"details": "https://github.com/fusetools/Fuse.SublimePlugin",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Fuse Snippets",
+			"details": "https://github.com/igorls/fuse-snippets",
 			"releases": [
 				{
 					"sublime_text": ">=3000",

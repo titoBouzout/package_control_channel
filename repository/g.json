@@ -145,7 +145,11 @@
 			"labels": ["language syntax", "color scheme", "auto-complete"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<3084",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -229,7 +233,11 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<3084",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -1149,6 +1157,17 @@
 			]
 		},
 		{
+			"name": "Golite",
+			"details": "https://github.com/wy-z/Golite",
+			"labels": ["golang", "go", "gocode", "godef", "linting", "gorename", "formatting"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Google Apps Scripts",
 			"details": "https://github.com/revolunet/sublimetext-google-apps-scripts",
 			"labels": ["google", "scripts", "drive", "javascript"],
@@ -1753,6 +1772,18 @@
 				{
 					"sublime_text": "<3092",
 					"base": "https://github.com/dncrews/GraphQL-SublimeText2",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Graphvizer",
+			"details": "https://github.com/hao-lee/Graphvizer",
+			"author": "Hao Lee",
+			"labels": ["graphviz", "dot", "visualization"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

@@ -363,6 +363,17 @@
 			]
 		},
 		{
+			"name": "Particle Reverse Polish Language",
+			"details": "https://github.com/KubeRoot/Sublime-PRPL",
+			"labels": ["language syntax", "completions"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Parva Syntax",
 			"details" : "https://github.com/muskatel/Parva_Syntax",
 			"labels": ["language syntax"],
@@ -800,6 +811,17 @@
 			]
 		},
 		{
+			"name": "PGN Support",
+			"details": "https://github.com/shreyasminocha/Sublime-PGN",
+			"description": "Portable Game Notation syntax and snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PgSQL",
 			"details": "https://github.com/jobywalker/PgSQL-Sublime",
 			"releases": [
@@ -1051,17 +1073,6 @@
 			]
 		},
 		{
-			"name": "php-grammar",
-			"details": "https://github.com/gerardroche/sublime-php-grammar",
-			"labels": ["php", "language syntax"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "php-snippets",
 			"details": "https://github.com/gerardroche/sublime-php-snippets",
 			"labels": ["php", "snippets"],
@@ -1185,6 +1196,18 @@
 				{
 					"sublime_text": ">=3000",
 					"platforms": ["osx", "linux", "windows"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHPGrammar",
+			"details": "https://github.com/gerardroche/sublime-php-grammar",
+			"labels": ["php", "auto-completion", "completions", "text manipulation", "formatting"],
+			"previous_names": ["php-grammar"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1360,6 +1383,16 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PixarUSD",
+			"details": "https://github.com/davidlatwe/PixarUSD-Sublime",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
 				}
 			]
 		},
@@ -1661,14 +1694,31 @@
 			"details": "https://github.com/hudochenkov/sublime-postcss-sorting",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=3000",
 					"tags": true
+				},
+				{
+					"sublime_text": "<3000",
+					"tags": "st2-"
 				}
 			]
 		},
 		{
 			"name": "Poster",
 			"details": "https://github.com/ssddanbrown/Poster",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Postfixer",
+			"details": "https://github.com/mbnuqw/sublime-postfixer",
+			"readme": "https://raw.githubusercontent.com/mbnuqw/sublime-postfixer/master/README.md",
+			"issues": "https://github.com/mbnuqw/sublime-postfixer/issues",
+			"labels": ["text manipulation", "auto-complete"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -1797,6 +1847,16 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pqmarkup",
+			"details": "https://bitbucket.org/pqmarkup/sublime_pqmarkup",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -2266,19 +2326,9 @@
 		},
 		{
 			"name": "PureScript",
-			"details": "https://github.com/joneshf/sublime-purescript",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
-			"name": "PureScript IDE",
 			"details": "https://github.com/b123400/purescript-ide-sublime",
-			"labels": ["ide"],
+			"labels": ["language syntax", "ide"],
+			"previous_names": ["PureScript IDE"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -2580,7 +2630,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "Python Fix Imports",
 			"details": "https://github.com/Stibbons/python-fiximports",

@@ -209,6 +209,17 @@
 			]
 		},
 		{
+			"name": "Tailwind CSS Docs",
+			"details": "https://github.com/austenc/sublime-tailwind-docs",
+			"author": "Austen Cameron",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Takana",
 			"details": "https://github.com/mechio/takana-sublime",
 			"releases": [
@@ -543,6 +554,17 @@
 			]
 		},
 		{
+			"name": "Test Switcher",
+			"details": "https://github.com/davidmreed/test_switcher",
+			"labels": ["testing"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "TestCafe Test Runner",
 			"details": "https://github.com/churkin/testcafe-sublimetext",
 			"readme": "https://github.com/churkin/testcafe-sublimetext/blob/master/README.md",
@@ -838,6 +860,19 @@
 			]
 		},
 		{
+			"name": "Theme - City Lights",
+			"details": "https://github.com/Yummygum/city-lights-sublime",
+			"homepage": "http://citylights.xyz/",
+			"labels": ["theme", "color scheme", "City Lights", "syntax"],
+			"author": "Yummygum",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Theme - Cobalt2",
 			"details": "https://github.com/wesbos/cobalt2",
 			"labels": ["theme", "color scheme"],
@@ -1033,6 +1068,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Theme - Fladaptive",
+			"details": "https://github.com/inta/sublime-theme-fladaptive",
+			"labels": ["theme"],
+			"releases": [
+				{
+					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]
@@ -2013,6 +2059,21 @@
 			]
 		},
 		{
+			"name": "Timestamp converter",
+			"details": "https://github.com/Zlitus/sublime-text-timestamp",
+			"labels": [
+				"utilities",
+				"productivity",
+				"text manipulation"
+			],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "TimeTracker",
 			"details": "https://github.com/Schepotin/SublimeTimeTracker",
 			"releases": [
@@ -2073,6 +2134,18 @@
 			]
 		},
 		{
+			"name": "Titan Edge Highlighter",
+			"details": "https://github.com/ErdemAkin/Titan-Edge-Highlighter",
+			"author": "Ali Erdem Akın",
+			"labels": ["php", "titan", "edge", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Titanium Alloy Related",
 			"details": "https://github.com/Cyber-Duck/sublime-ti-alloy-related",
 			"labels": ["code navigation", "titanium", "alloy"],
@@ -2125,7 +2198,31 @@
 			]
 		},
 		{
-			"name": "Tmux",
+			"name": "TM1 Planning Analytics Developer Tools",
+			"details": "https://github.com/ajmyers/Sublime-TM1",
+			"labels": ["IBM", "TM1", "Turbo Integrator", "Planning Analytics"],
+			"releases": [
+				{
+					"sublime_text": ">3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "tmux",
+			"previous_names": ["tmux_open"],
+			"details": "https://github.com/huntie/sublime-tmux",
+			"labels": ["tmux", "terminal"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["linux", "osx"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Tmux Syntax Highlight",
 			"details": "https://github.com/keqh/sublime-tmux-syntax-highlight",
 			"labels": ["language syntax"],
 			"releases": [
@@ -2186,17 +2283,6 @@
 			]
 		},
 		{
-			"name": "Todo.txt Syntax",
-			"details": "https://github.com/dertuxmalwieder/SublimeTodoTxt",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "ToDone",
 			"details": "https://github.com/tiffon/sublime-to-done",
 			"labels": ["todo", "productivity", "tasks"],
@@ -2217,6 +2303,18 @@
 				{
 					"sublime_text": "*",
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "TodoTxt Syntax",
+			"previous_names": ["Todo.txt Syntax"],
+			"details": "https://github.com/dertuxmalwieder/SublimeTodoTxt",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
 				}
 			]
 		},
@@ -2431,6 +2529,17 @@
 		{
 			"name": "Tomorrow Night Italics Color Scheme",
 			"details": "https://github.com/kennethreitz/sublime-tomorrow-night-italics-theme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Toned Color Scheme",
+			"details": "https://github.com/mariusz-kowalski/toned",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -2677,6 +2786,16 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Translate-CN",
+			"details": "https://github.com/mjd507/Sublime-Translate",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -2973,6 +3092,17 @@
 			]
 		},
 		{
+			"name": "Twilight+",
+			"details": "https://github.com/xy2z/SublimeTwilight",
+			"labels": ["twilight", "markdown", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Twilightcyanide Colorscheme",
 			"details": "https://github.com/Centril/sublime-twilightcyanide-colorscheme",
 			"labels": ["twilight", "predawn", "cyanide", "color scheme"],
@@ -3041,6 +3171,17 @@
 		{
 			"name": "TXT2PYNB",
 			"details": "https://github.com/jmwerner/TXT2PYNB",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Type Language Syntax",
+			"details": "https://github.com/goodmind/language-typelanguage-sublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",

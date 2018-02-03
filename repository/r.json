@@ -218,6 +218,17 @@
 			]
 		},
 		{
+			"name": "rainbow_csv",
+			"details": "https://github.com/mechatroner/sublime_rainbow_csv",
+			"labels": ["csv", "tsv", "highlight"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RainbowDrops Inspired - Color Scheme",
 			"details": "https://github.com/AhanM/RainbowDropsInspired-color-scheme",
 			"labels": ["color scheme"],
@@ -235,6 +246,16 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Rainglow",
+			"details": "https://github.com/daylerees/rainglow",
+			"releases": [
+				{
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -330,6 +351,16 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RandomCase",
+			"details": "https://github.com/dcowsill/randomcase",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -598,6 +629,16 @@
 				{
 					"sublime_text": ">=3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ReadonlyMode",
+			"details": "https://github.com/dongliu/sublime-readonly",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -1000,6 +1041,16 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RemoveLineBreaks",
+			"details": "https://github.com/fsaad/Sublime-RemoveLineBreaks",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1459,6 +1510,18 @@
 			]
 		},
 		{
+			"name": "Rohingya Dark color scheme",
+			"details": "https://github.com/rybtech/Rohingya-dark-sublime-text-3-color-scheme",
+			"readme": "https://github.com/rybtech/Rohingya-dark-sublime-text-3-color-scheme/blob/master/README.md",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Ros Snippets",
 			"details": "https://github.com/ckrooss/ros_snippets",
 			"labels": ["snippets", "build system", "language syntax"],
@@ -1901,6 +1964,16 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "RulerColumn",
+			"details": "https://github.com/gerardroche/sublime-ruler-column",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
