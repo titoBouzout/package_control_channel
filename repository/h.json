@@ -92,7 +92,7 @@
 			"name": "Halcyon Theme",
 			"author": "Brittany Chiang",
 			"details": "https://github.com/bchiang7/Halcyon",
-			"labels": ["theme", "color scheme"],
+			"labels": ["theme", "color scheme", "ayu mirage", "halcyon"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -456,10 +456,6 @@
 			"details": "https://github.com/facelessuser/HexViewer",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
 				}
@@ -512,6 +508,16 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "High-Sienna",
+			"details": "https://github.com/davidbwaters/High-Sienna",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -1062,6 +1068,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "HTML Syntax in Script",
+			"details": "https://github.com/cmcleese/sublime-html-script-all",
+			"labels": ["syntax", "html", "script", "highlighting"],
+			"releases": [
+				{
+					"sublime_text": ">=3170",
+					"tags": true
 				}
 			]
 		},

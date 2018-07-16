@@ -238,6 +238,17 @@
 			]
 		},
 		{
+			"name": "SasSubmit",
+			"details": "https://github.com/sjiangDA/SasSubmit",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Sassy Comments",
 			"details": "https://github.com/danieldafoe/Sassy_Comments",
 			"releases": [
@@ -482,10 +493,6 @@
 		{
 			"details": "https://github.com/facelessuser/ScopeHunter",
 			"releases": [
-				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
 				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
@@ -1112,10 +1119,6 @@
 			"previous_names": ["PlistJsonConverter"],
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
 				}
@@ -1244,6 +1247,18 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Sf4Helpers",
+			"details": "https://github.com/HeyIAmBob/sublime-sf4helpers",
+			"labels": ["Symfony", "Symfony4", "php"],
+			"releases": [
+				{
+					"platforms": ["osx"],
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1788,10 +1803,11 @@
 		},
 		{
 			"name": "simple_ConTeXt",
-			"details": "https://github.com/equiva1ence/simple_ConTeXt",
+			"details": "https://github.com/SQbQxeKd3JHD8/simple_ConTeXt",
+			"labels": ["language syntax", "snippets", "auto-complete", "build system"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
+					"sublime_text": ">=3149",
 					"tags": true
 				}
 			]
@@ -1803,6 +1819,18 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "SimpleConfig",
+			"description": "Syntax Highlighting for the SimpleConfig configuration language",
+			"details": "https://github.com/AaronGillBraun/Sublime-SimpleConfig",
+			"labels": ["langage syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
 				}
 			]
 		},
@@ -1890,7 +1918,7 @@
 		},
 		{
 			"name": "SimpleSyntax",
-			"details": "https://github.com/budRich/SimpleSyntax",
+			"details": "https://github.com/budlabs/SimpleSyntax",
 			"description": "Comment syntax for config files",
 			"author": "Nils Kvist",
 			"labels": ["configfile", "syntax"],
@@ -2040,6 +2068,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "SkoolkitZ80",
+			"details": "https://github.com/mrcook/SkoolkitZ80",
+			"labels": ["language syntax", "z80", "assembly"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -2520,6 +2559,16 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Solidity Docstring Generator",
+			"details": "https://github.com/matt-lough/solidity-docstring-generator",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -3251,6 +3300,16 @@
 			]
 		},
 		{
+			"name": "Stackoverflow Debug Helper",
+			"details": "https://github.com/bahi-2/SO-debug-helper",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "StackTracer",
 			"details": "https://github.com/zhangqibupt/stacktracer",
 			"labels": ["ruby"],
@@ -3493,6 +3552,17 @@
 			]
 		},
 		{
+			"name": "StoryScript Highlight",
+			"details": "https://github.com/swwind/StoryScript-Highlight",
+			"labels": ["syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/gravejester/stposh",
 			"labels": ["language syntax"],
 			"releases": [
@@ -3629,6 +3699,16 @@
 			]
 		},
 		{
+			"name": "STVenvWrapper",
+			"details": "https://github.com/nvanwitt/STVenvWrapper",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Stylefmt",
 			"previous_names": ["CSSfmt"],
 			"details": "https://github.com/dmnsgn/sublime-stylefmt",
@@ -3750,6 +3830,17 @@
 				{
 					"sublime_text": ">=3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "sublack",
+			"details": "https://github.com/jgirardet/sublack",
+			"author": "jgirardet",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -3896,6 +3987,18 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Sublime wxapp",
+			"details": "https://github.com/springlong/Sublime-wxapp",
+			"homepage": "https://github.com/springlong/Sublime-wxapp",
+			"author": "sprintlong",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -4860,6 +4963,16 @@
 			]
 		},
 		{
+			"name": "Svelte",
+			"details": "https://github.com/corneliusio/svelte-sublime",
+			"releases": [
+				{
+					"sublime_text": ">=3153",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SVG Icon Snippets",
 			"details": "https://github.com/idleberg/sublime-svg-icons",
 			"labels": ["snippets", "auto-complete", "svg", "svg icons"],
@@ -5227,6 +5340,21 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Syncrow",
+			"description": "Create and Sync Snippets.",
+			"details": "https://github.com/Afzal7/syncrow",
+			"issues": "https://github.com/Afzal7/syncrow/issues",
+			"homepage": "https://syncrow.herokuapp.com",
+			"author": "Afzal7",
+			"labels": ["syncrow", "create", "synchronize", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},

@@ -177,6 +177,16 @@
 			]
 		},
 		{
+			"name": "Data Wrangler",
+			"details": "https://github.com/AlexLamson/DataWrangler",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "DataConverter",
 			"details": "https://github.com/fitnr/SublimeDataConverter",
 			"releases": [
@@ -480,6 +490,16 @@
 			]
 		},
 		{
+			"name": "Detect Invalid Devangari",
+			"details": "https://github.com/alchemi5t/devanagari_invalid_grammar_detect",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Devastate",
 			"details": "https://github.com/vlakarados/devastate",
 			"labels": ["theme", "color scheme"],
@@ -515,6 +535,16 @@
 		{
 			"name": "DevDocs offline",
 			"details": "https://github.com/hectorqin/sublime-devdocs",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "devebkit",
+			"details": "https://github.com/bisguzar/st3-devebkit",
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -787,8 +817,12 @@
 			"labels": ["fullscreen", "distraction-free"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"tags": true
+					"sublime_text": "<3000",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": ">=3000",
+					"tags": "st3-"
 				}
 			]
 		},
@@ -934,6 +968,16 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "DM Macro",
+			"details": "https://github.com/truemoid/sublime-dm-macro",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

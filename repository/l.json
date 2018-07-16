@@ -57,11 +57,22 @@
 		},
 		{
 			"name": "Language 1C (BSL)",
-			"details": "https://github.com/xDrivenDevelopment/sublime-language-1c-bsl",
+			"details": "https://github.com/1c-syntax/sublime-language-1c-bsl",
 			"labels": ["language syntax", "highlighting"],
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Language SAP",
+			"details": "https://github.com/krasnobaev/language-sap-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -296,6 +307,17 @@
 			]
 		},
 		{
+			"name": "Lark Grammar Syntax",
+			"details": "https://github.com/lark-parser/lark_syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Laroute",
 			"details": "https://github.com/Fenzland/Laroute.sublime",
 			"releases": [
@@ -340,8 +362,8 @@
 			"details": "https://github.com/kpym/SublimeLaTeXAccents",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"branch": "master"
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -570,6 +592,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Lebab ES6 Transform",
+			"details": "https://github.com/uniibu/Lebab-ES6-Transform",
+			"labels": ["lebab", "es5", "es6", "convert", "transform", "es2017"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -990,11 +1023,12 @@
 		},
 		{
 			"name": "Liquid",
-			"details": "https://github.com/stephendavis89/sublime-liquid",
+			"details": "https://github.com/braver/sublime-liquid",
+			"labels": ["liquid", "shopify", "front matter", "jekyll", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": ">3000",
+					"tags": true
 				}
 			]
 		},
@@ -1673,6 +1707,16 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Lux",
+			"details": "https://bitbucket.org/dataductus/sublime-3-lux-package",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},

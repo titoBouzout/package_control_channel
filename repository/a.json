@@ -124,6 +124,16 @@
 			]
 		},
 		{
+			"name": "ACF Programmatic Fields",
+			"details": "https://github.com/timlogemann/sublime-acf-snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ACF Snippets",
 			"details": "https://github.com/iamhexcoder/acf_snippets",
 			"releases": [
@@ -756,9 +766,10 @@
 			]
 		},
 		{
-			"name": "amxmodx",
-			"details": "https://github.com/evandrocoan/SublimeAMXX_Editor",
+			"name": "Amxmodx",
+			"details": "https://github.com/evandrocoan/AmxxEditor",
 			"labels": ["autocompletion", "auto-complete", "amxmodx", "amx mod x", "amxx", "pawn", "build system"],
+			"previous_names": ["amxmodx"],
 			"releases": [
 				{
 					"sublime_text": ">=3114",
@@ -1448,10 +1459,6 @@
 			"details": "https://github.com/facelessuser/ApplySyntax",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
 				}
@@ -1577,6 +1584,17 @@
 			"name": "ArmaBuild",
 			"details": "https://github.com/jonpas/Sublime-ArmaBuild",
 			"labels": ["build", "build system"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ArmoryBlue",
+			"details": "https://github.com/armory-io/armory-blue",
+			"labels": ["color scheme", "theme"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1719,6 +1737,18 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ASL Syntax Highlight",
+			"details": "https://github.com/Fansaly/ASL-Syntax-Highlight",
+			"author": "Fansaly",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]

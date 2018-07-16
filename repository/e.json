@@ -175,6 +175,18 @@
 			]
 		},
 		{
+			"name": "ECL",
+			"details": "https://github.com/vbarboza/sublime-ecl",
+			"author": "Vinicius Barboza",
+			"labels": ["ecl", "hpcc", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/phildopus/EclipseJavaFormatter",
 			"releases": [
 				{
@@ -186,7 +198,7 @@
 		{
 			"name": "Ecmascript Syntax",
 			"details": "https://github.com/bathos/Ecmascript-Sublime",
-			"labels": [ "Javascript", "ES6", "ES2105" ],
+			"labels": [ "Javascript", "ES6", "ES2015", "language syntax" ],
 			"releases": [
 				{
 					"sublime_text": ">=3084",
@@ -722,6 +734,18 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "EML Syntax",
+			"labels": ["eml", "email", "mail", "e-mail", "RFC5322"],
+			"details": "https://github.com/jacobmovingfwd/eml-syntax",
+			"author": "Jacob Lee",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -1452,10 +1476,6 @@
 		{
 			"details": "https://github.com/facelessuser/ExportHtml",
 			"releases": [
-				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
 				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"

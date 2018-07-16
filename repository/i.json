@@ -245,7 +245,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"platforms":"windows",
+					"platforms":["windows", "linux"],
 					"tags": true
 				}
 			]
@@ -543,6 +543,18 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "industrial-coding-theme",
+			"details": "https://github.com/zaizupro/industrial-coding-theme",
+			"previous_names": ["industrial coding theme"],
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

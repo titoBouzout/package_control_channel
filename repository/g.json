@@ -219,6 +219,16 @@
 			]
 		},
 		{
+			"name": "GenerateProjects",
+			"details": "https://github.com/drmonkeyninja/sublime-text-generate-projects",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/SublimeText/GenerateUUID",
 			"releases": [
 				{
@@ -1029,6 +1039,17 @@
 			]
 		},
 		{
+			"name": "GoDebug",
+			"details": "https://github.com/dishmaev/GoDebug",
+			"labels": ["go", "golang", "debug"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Godef",
 			"details": "https://github.com/buaazp/Godef",
 			"labels": ["go"],
@@ -1358,8 +1379,8 @@
 			"labels": ["go"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -1743,6 +1764,18 @@
 			]
 		},
 		{
+			"name": "Grammalecte",
+			"details": "https://github.com/procsynth/GrammalecteST3",
+			"readme": "https://raw.githubusercontent.com/procsynth/GrammalecteST3/master/README.md",
+			"labels": ["gramma", "french", "spelling", "text"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Grammatical Framework",
 			"details": "https://github.com/saludes/sublime-GF",
 			"releases": [
@@ -2105,7 +2138,7 @@
 		{
 			"name": "Guna",
 			"details": "https://github.com/poucotm/Guna",
-			"labels": ["theme", "color-scheme", "clock"],
+			"labels": ["theme", "color scheme", "clock", "weather"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

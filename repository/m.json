@@ -421,17 +421,6 @@
 			]
 		},
 		{
-			"name": "Markdown Preview",
-			"details": "https://github.com/revolunet/sublimetext-markdown-preview",
-			"labels": ["markdown", "preview", "build"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Markdown Slideshow",
 			"details": "https://github.com/ogom/sublimetext-markdown-slideshow",
 			"releases": [
@@ -498,7 +487,7 @@
 			"details": "https://github.com/junShimoji/MarkdownComplements",
 			"releases": [
 				{
-					"sublime_text": "<3000",
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -526,16 +515,6 @@
 			]
 		},
 		{
-			"details": "https://github.com/braver/MarkdownHighlighting",
-			"labels": ["markdown", "language syntax", "gfm"],
-			"releases": [
-				{
-					"sublime_text": ">3100",
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/sekogan/MarkdownLight",
 			"releases": [
 				{
@@ -556,12 +535,24 @@
 			]
 		},
 		{
+			"name": "MarkdownPreview",
+			"details": "https://github.com/facelessuser/MarkdownPreview",
+			"labels": ["markdown", "preview", "build"],
+			"previous_names": ["Markdown Preview"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": "st3-"
+				}
+			]
+		},
+		{
 			"details": "https://github.com/naokazuterada/MarkdownTOC",
 			"labels": ["markdown", "toc", "table of contents"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -626,6 +617,17 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Marshal Command Code",
+			"previous_names": ["MinecraftCommandCode"],
+			"details": "https://github.com/42iscool42/MCC",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags":true
 				}
 			]
 		},
@@ -869,6 +871,16 @@
 			]
 		},
 		{
+			"name": "Mattermost Post",
+			"details": "https://github.com/rubberneck/sublime-mattermost-post",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Maude Syntax Highlighting",
 			"details": "https://github.com/jpsikorra/maude_syntax_highlight",
 			"labels": ["maude", "language syntax"],
@@ -1051,6 +1063,16 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Mellanox Syntax Highlighter",
+			"details": "https://github.com/keyboardinterrupt/sublime-mellanox-syntax",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -1315,6 +1337,28 @@
 			]
 		},
 		{
+			"name": "MicroPython Tools",
+			"details": "https://github.com/bisguzar/st3-micropython-tools",
+			"labels": ["micropython"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Mika",
+			"details": "https://github.com/kyoto-shift/Mika",
+			"labels": ["mika", "language", "syntax", "highlighting"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MikrotikScript",
 			"details": "https://github.com/Kentzo/MikrotikScript",
 			"releases": [
@@ -1352,16 +1396,6 @@
 				{
 					"sublime_text": "*",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "MinecraftCommandCode",
-			"details": "https://github.com/42iscool42/MCC",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags":true
 				}
 			]
 		},
@@ -1482,6 +1516,18 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "mIRC Scripting Language (Highlighting and Autocomplete)",
+			"details": "https://github.com/eneerge/mIRC-Scripting-Language-for-Sublime-Text",
+			"labels": ["language syntax", "auto-complete"],
+			"author": "Evan Greene",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
 				}
 			]
 		},
@@ -2280,6 +2326,18 @@
 			]
 		},
 		{
+			"name": "MRL syntax highlighting",
+			"details": "https://github.com/Bushikot/mrl-sublime-syntax",
+			"author": "Denis Koshechkin",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MSBuild selector",
 			"details": "https://github.com/jbaltie/MSBuildSelector",
 			"author": "Johan Baltié",
@@ -2537,6 +2595,16 @@
 			"name": "Myrkur Color Scheme",
 			"details": "https://github.com/superjan/myrkur",
 			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "MySFTP",
+			"details": "https://github.com/icjmaa/MySFTP",
 			"releases": [
 				{
 					"sublime_text": "*",

@@ -147,6 +147,17 @@
 			]
 		},
 		{
+			"name": "PaletteFile",
+			"details": "https://github.com/vshotarov/PaletteFile",
+			"labels": ["file creation", "file navigation", "directory creation", "directory navigation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Panda Syntax Sublime",
 			"details": "https://github.com/siamak/panda-syntax-sublime",
 			"labels": ["color scheme"],
@@ -1618,6 +1629,19 @@
 			]
 		},
 		{
+			"name": "Polygen",
+			"author": "Tristano Ajmone",
+			"details": "https://github.com/tajmone/sublime-polygen",
+			"issues": "https://github.com/tajmone/sublime-polygen/issues",
+			"labels": [ "polygen", "language syntax" ],
+			"releases": [
+				{
+					"sublime_text": ">=3149",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "polyglot Snippets",
 			"details": "https://github.com/thespacedoctor/polyglot-Sublime-Snippets",
 			"releases": [
@@ -2134,6 +2158,17 @@
 			]
 		},
 		{
+			"name": "Project Runner",
+			"details": "https://github.com/andrew4699/sublime-project-runnner",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Project Specific Syntax Settings",
 			"details": "https://github.com/reywood/sublime-project-specific-syntax",
 			"labels": ["language syntax", "project"],
@@ -2363,6 +2398,17 @@
 			]
 		},
 		{
+			"name": "PureScript Syntax",
+			"details": "https://github.com/tellnobody1/sublime-purescript-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PurpleHaze",
 			"details": "https://github.com/klomontes/purple-haze-color-scheme",
 			"labels": ["color scheme"],
@@ -2494,6 +2540,18 @@
 			"releases": [
 				{
 					"sublime_text": ">=3103",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PypiPackageInfo",
+			"details": "https://github.com/gh640/SublimePypiPackageInfo",
+			"author": "Goto Hayato",
+			"labels": ["python", "pypi", "pipfile", "pipenv"],
+			"releases": [
+				{
+					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -2808,6 +2866,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PythonNiceToHaveFeatures",
+			"details": "https://github.com/monobot/PythonNiceToHaveFeatures",
+			"labels": ["python", "refactor", "relative path", "package path", "path"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

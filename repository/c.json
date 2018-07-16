@@ -120,9 +120,31 @@
 			]
 		},
 		{
+			"name": "C2console",
+			"details": "https://github.com/meloalright/c2console",
+			"labels": ["javascript", "console", "log"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "C99",
 			"details": "https://github.com/noct/sublime-c99",
 			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Cacher",
+			"details": "https://github.com/CacherApp/cacher-sublime",
+			"labels": ["snippets", "gists", "code library"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -238,6 +260,17 @@
 			]
 		},
 		{
+			"name": "CAOS Syntax Highlighter",
+			"details": "https://github.com/KeyboardInterrupt/sublime-caos-syntax",
+			"author": "KeyboardInterrupt",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Cap'n Proto Syntax",
 			"details": "https://github.com/joshuawarner32/capnproto-sublime",
 			"labels": ["language syntax"],
@@ -320,7 +353,7 @@
 		},
 		{
 			"name": "Case Conversion",
-			"details": "https://github.com/jdc0589/CaseConversion",
+			"details": "https://github.com/jdavisclark/CaseConversion",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -832,6 +865,16 @@
 			]
 		},
 		{
+			"name": "chester-atom",
+			"details": "https://github.com/gborges0727/chester-atom-sublime",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Chick",
 			"details": "https://github.com/Satoh-D/Chick",
 			"releases": [
@@ -1018,6 +1061,16 @@
 			]
 		},
 		{
+			"name": "ChromeREPL",
+			"details": "https://github.com/acarabott/ChromeREPL",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ChromiumTodoView",
 			"details": "https://github.com/dougt/ChromiumTodoView-sublime",
 			"releases": [
@@ -1107,6 +1160,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Circuits",
+			"details": "https://github.com/jdpatt/circuits",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -2288,6 +2352,27 @@
 			]
 		},
 		{
+			"name": "Color Convert",
+			"details": "https://github.com/zhouyuexie/ColorConvert",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Color Highlight",
+			"labels": ["color", "highlight", "highlighter", "hex", "rgb", "hsl"],
+			"details": "https://github.com/Kronuz/ColorHighlight",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Color Highlighter",
 			"details": "https://github.com/Monnoroch/ColorHighlighter",
 			"releases": [
@@ -3032,6 +3117,16 @@
 			]
 		},
 		{
+			"name": "CoNLL-U",
+			"details": "https://github.com/stephsamson/CoNLL-U.tmLanguage",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Console Exec",
 			"details": "https://github.com/joeyespo/sublimetext-console-exec",
 			"author": "Joe Esposito",
@@ -3052,6 +3147,15 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/abathur/constellation",
+			"releases": [
+				{
+					"sublime_text": ">=3161",
 					"tags": true
 				}
 			]
@@ -3594,6 +3698,17 @@
 			"name": "Criollo Color Scheme",
 			"labels": ["color scheme"],
 			"details": "https://github.com/aranajhonny/criollo",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Cristina Color Scheme",
+			"details": "https://github.com/edgarMejia/Cristina-ColorScheme",
+			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -4190,6 +4305,16 @@
 			]
 		},
 		{
+			"name": "Cup",
+			"details": "https://github.com/alin23/Cup",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Curly Syntax Definition",
 			"details": "https://github.com/medcat/CurlySyntaxDefinition",
 			"releases": [
@@ -4299,7 +4424,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "Cycle Setting",
 			"details": "https://github.com/jmm/Sublime-Text-Cycle-Setting/tree/package-control",

@@ -562,6 +562,17 @@
 			]
 		},
 		{
+			"name": "BetterSave",
+			"details": "https://github.com/adrian-tut/BetterSave",
+			"labels": ["save", "close"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BetterSnippetManager",
 			"details": "https://github.com/math2001/BetterSnippetManager",
 			"labels": ["snippets", "utilities", "file open", "code navigation", "utils", "file creation"],
@@ -1193,10 +1204,6 @@
 			"details": "https://github.com/facelessuser/BracketHighlighter",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
 				}
@@ -1257,6 +1264,18 @@
 		{
 			"name": "Breadcrumbs",
 			"details": "https://github.com/qbolec/Breadcrumbs",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "BreakLines",
+			"details": "https://github.com/Moojuiceman/BreakLines",
+			"issues": "https://github.com/Moojuiceman/BreakLines/issues",
+			"labels": ["break", "group", "split", "separate", "lines"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1481,6 +1500,17 @@
 			"name": "Business Catalyst Liquid Snippets",
 			"details": "https://github.com/PhilMarcuson/business-catalyst-sublime-plugin",
 			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "BYOND",
+			"details": "https://github.com/Wirewraith/sublime-byond",
+			"labels": ["language syntax", "build system", "Dream Maker", "Dream Seeker", "Dream Daemon"],
 			"releases": [
 				{
 					"sublime_text": "*",

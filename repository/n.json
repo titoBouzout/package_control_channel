@@ -565,6 +565,17 @@
 			]
 		},
 		{
+			"name": "Nintendo Switch Dark Scheme",
+			"details": "https://github.com/argyleink/NintendoSwitch.tmTheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Nirum",
 			"details" : "https://github.com/spoqa/sublime-nirum",
 			"labels": ["language syntax", "nirum"],
@@ -1016,6 +1027,17 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "NumberFormatter",
+			"details": "https://github.com/ilyakam/NumberFormatter",
+			"labels": ["format numbers", "unformat numbers", "thousands separator", "decimal separator"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},

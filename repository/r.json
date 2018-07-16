@@ -54,6 +54,17 @@
 			]
 		},
 		{
+			"name": "Rails Completions",
+			"details": "https://github.com/mjeffrey18/rails-completions",
+			"labels": ["Ruby on Rails", "snippets", "auto-complete", "Autocomplete", "Rails", "ruby"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Rails Developer Snippets",
 			"details": "https://github.com/j10io/railsdev-sublime-snippets",
 			"labels": ["snippets"],
@@ -695,6 +706,16 @@
 			]
 		},
 		{
+			"name": "Reason",
+			"details": "https://github.com/reasonml-editor/sublime-reason",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ReaSyntax",
 			"details": "https://github.com/Breeder/ReaSyntax",
 			"labels": ["reaper", "cockos", "reascript", "eel", "jesusonic", "js", "walter"],
@@ -865,6 +886,16 @@
 			]
 		},
 		{
+			"name": "Regex Escape",
+			"details": "https://github.com/Jonnymcc/sublime_regex_escape",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RegexExplainTip",
 			"details": "https://github.com/rubikonx9/SublimeRegexExplainTip",
 			"labels": ["utilities"],
@@ -889,10 +920,6 @@
 		{
 			"details": "https://github.com/facelessuser/RegReplace",
 			"releases": [
-				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
 				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
@@ -1048,6 +1075,17 @@
 		{
 			"name": "RemoveDuplicateCharacters",
 			"details": "https://github.com/xianghongai/RemoveDuplicateCharacters",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RemoveDuplicateLines",
+			"details": "https://github.com/ilyakam/RemoveDuplicateLines",
+			"labels": ["remove duplicates", "delete duplicates", "dedup"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1475,8 +1513,9 @@
 			]
 		},
 		{
-			"name": "Robot Framework Assistant",
+			"name": "RobotFrameworkAssistant",
 			"details": "https://github.com/andriyko/sublime-robot-framework-assistant",
+			"previous_names": ["Robot Framework Assistant"],
 			"releases": [
 				{
 					"sublime_text": "<3000",
@@ -1535,6 +1574,17 @@
 			"details": "https://github.com/rybtech/Rohingya-dark-sublime-text-3-color-scheme",
 			"readme": "https://github.com/rybtech/Rohingya-dark-sublime-text-3-color-scheme/blob/master/README.md",
 			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Romanize",
+			"details": "https://github.com/GCTsalamagkakis/Romanize",
+			"labels": ["numbers"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1653,6 +1703,17 @@
 					"sublime_text": "<3000",
 					"branch": "st2"
 				},
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RSpec Buddy",
+			"details": "https://github.com/glaucocustodio/rspec-buddy-for-sublime-text",
+			"labels": ["language syntax", "snippets"],
+			"releases": [
 				{
 					"sublime_text": ">=3000",
 					"tags": true

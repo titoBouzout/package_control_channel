@@ -154,6 +154,17 @@
 			]
 		},
 		{
+			"name": "WebAssembly Text Syntax",
+			"details": "https://github.com/bathos/wast-sublime-syntax",
+			"labels": [ "WASM", "WAST", "WAT", "Web Assembly", "language syntax" ],
+			"releases": [
+				{
+					"sublime_text": ">=3084",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "WebBuilder ST",
 			"details": "https://github.com/Houfeng/WebBuilder-ST",
 			"releases": [
@@ -169,6 +180,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "WebDevShell",
+			"details": "https://github.com/TheDoctor0/WebDevShell",
+			"labels": ["web", "dev", "shell", "laravel", "npm", "artisan", "yarn", "composer", "symfony"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -269,11 +291,12 @@
 			]
 		},
 		{
-			"details": "https://github.com/catalinc/WebSearch",
+			"name": "WebSearch",
+			"details": "https://github.com/kallookoo/WebSearch",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"branch": "master"
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -530,6 +553,17 @@
 			"name": "Witcher Script Syntax",
 			"details": "https://github.com/flo5581/sublime-WitcherScript",
 			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "With Python",
+			"details": "https://github.com/nneonneo/sublime-replace-with-python",
+			"labels": ["text manipulation", "utilities"],
 			"releases": [
 				{
 					"sublime_text": "*",
