@@ -219,6 +219,20 @@
 			]
 		},
 		{
+			"name": "DiffMatchPatch",
+			"author": "evandrocoan",
+			"load_order": "09",
+			"description": "Autored by Neil Fraser and others, Diff Match Patch is a high-performance library in multiple languages that manipulates plain text",
+			"issues": "https://github.com/evandroforks/DiffMatchPatch/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandroforks/DiffMatchPatch",
+					"sublime_text": ">=3114",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "emojitations",
 			"load_order": "50",
 			"description": "A library for using Unicode emoji annotations - https://github.com/kcsaff/emojitations",
@@ -331,6 +345,21 @@
 					"tags": true,
 					"sublime_text": ">=3000",
 					"platforms": ["osx-x64", "linux-x64", "windows-x64", "windows-x32"]
+				}
+			]
+		},
+		{
+			"name": "lzma",
+			"load_order": "50",
+			"description": "Python lzma module",
+			"author": "ehamiter",
+			"issues": "https://github.com/ehamiter/sublime-lzma/issues",
+			"releases": [
+				{
+					"base": "https://github.com/ehamiter/sublime-lzma",
+					"tags": true,
+					"sublime_text": ">=3000",
+					"platforms": ["osx-x64"]
 				}
 			]
 		},
@@ -537,7 +566,7 @@
 		},
 		{
 			"name": "pexpect",
-			"load_order": "01",
+			"load_order": "10",
 			"description": "Python pexpect module",
 			"author": "varp",
 			"issues": "https://github.com/varp/sublime-pexpect/issues",
@@ -579,7 +608,7 @@
 		},
 		{
 			"name": "psutil",
-			"load_order": "01",
+			"load_order": "10",
 			"description": "Python psutil module",
 			"author": "varp",
 			"issues": "https://github.com/varp/sublime-psutil/issues",
@@ -587,6 +616,7 @@
 				{
 					"sublime_text": ">=3000",
 					"base": "https://github.com/varp/sublime-psutil",
+					"platforms": ["osx-x64", "windows-x32", "windows-x64", "linux-x64", "linux-x32"],
 					"tags": true
 				}
 			]
@@ -734,6 +764,20 @@
 			]
 		},
 		{
+			"name": "python-toml",
+			"load_order": "01",
+			"description": "Python lib for TOML",
+			"author": "Jimmy Girardet",
+			"issues": "https://github.com/jgirardet/sublime-toml/issues",
+			"releases": [
+				{
+					"base": "https://github.com/jgirardet/sublime-toml",
+					"tags": true,
+					"sublime_text": ">=3000"
+				}
+			]
+		},	
+		{
 			"name": "pytz",
 			"load_order": "50",
 			"description": "Python pytz module",
@@ -827,6 +871,20 @@
 			"releases": [
 				{
 					"base": "https://github.com/packagecontrol/requests-oauthlib",
+					"tags": true,
+					"sublime_text": "*"
+				}
+			]
+		},
+		{
+			"name": "resumeback",
+			"load_order": "50",
+			"description": "Python resumeback module",
+			"author": "FichteFoll",
+			"issues": "https://github.com/packagecontrol/resumeback/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/resumeback",
 					"tags": true,
 					"sublime_text": "*"
 				}
@@ -1056,7 +1114,7 @@
 					"sublime_text": ">3092"
 				}
 			]
-		},
+		},	
 		{
 			"name": "typing",
 			"load_order": "50",

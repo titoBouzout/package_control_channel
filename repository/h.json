@@ -758,6 +758,17 @@
 			]
 		},
 		{
+			"name": "Homebrew Build System",
+			"details": "https://github.com/idleberg/sublime-homebrew-build",
+			"labels": ["build system"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/samueljohn/Homebrew-formula-syntax",
 			"labels": ["language syntax"],
 			"releases": [
@@ -897,6 +908,16 @@
 			]
 		},
 		{
+			"name": "Hover Locales",
+			"details": "https://github.com/alvesjtiago/hover-locales",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "How Do I Code Search",
 			"details": "https://github.com/jlangston/SublimeHowDoI",
 			"releases": [
@@ -950,10 +971,10 @@
 		{
 			"name": "HTML (C#)",
 			"details": "https://github.com/michaelblyons/SublimeText-HTML-CSharp",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "completions"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
+					"sublime_text": ">=3153",
 					"tags": true
 				}
 			]
@@ -1085,6 +1106,16 @@
 		{
 			"name": "HTML To Elm",
 			"details": "https://github.com/michaelniepel/html-to-elm",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "HTML To Scss",
+			"details": "https://bitbucket.org/hxss/html2scss",
 			"releases": [
 				{
 					"sublime_text": "*",

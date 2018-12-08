@@ -113,6 +113,17 @@
 			]
 		},
 		{
+			"name": "AccuTermClient",
+			"details": "https://github.com/ianharper/AccuTermClient",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true,
+					"platforms": ["windows"]
+				}
+			]
+		},
+		{
 			"name": "AceJump",
 			"details": "https://github.com/ice9js/ace-jump-sublime",
 			"labels": ["code navigation", "text navigation"],
@@ -317,6 +328,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "AddToFile",
+			"details": "https://github.com/nchauhan890/AddToFile",
+			"labels": ["text manipulation"],
+			"releases": [
+				{
+					"sublime_text": ">=3114",
 					"tags": true
 				}
 			]
@@ -724,6 +746,16 @@
 			]
 		},
 		{
+			"name": "AMP Snippets",
+			"details": "https://github.com/teamwethrift/amp-snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AmpersandJS Snippets",
 			"details": "https://github.com/HSH/AmpersandJS-Sublime-Text-Snippets",
 			"releases": [
@@ -766,10 +798,10 @@
 			]
 		},
 		{
-			"name": "Amxmodx",
+			"name": "AmxxEditor",
 			"details": "https://github.com/evandrocoan/AmxxEditor",
 			"labels": ["autocompletion", "auto-complete", "amxmodx", "amx mod x", "amxx", "pawn", "build system"],
-			"previous_names": ["amxmodx"],
+			"previous_names": ["Amxmodx"],
 			"releases": [
 				{
 					"sublime_text": ">=3114",
@@ -778,8 +810,9 @@
 			]
 		},
 		{
-			"name": "Amxx Pawn",
+			"name": "AmxxPawn",
 			"details": "https://github.com/evandrocoan/SublimeAmxxPawn",
+			"previous_names": ["Amxx Pawn"],
 			"labels": ["language syntax", "amxmodx", "amx mod x"],
 			"releases": [
 				{
@@ -1283,17 +1316,6 @@
 			]
 		},
 		{
-			"name": "APICloudPackage",
-			"details": "https://github.com/APICloud-com/Sublime-APICloud-Package",
-			"labels": ["android", "apicloud"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "APICloudSnippets",
 			"details": "https://github.com/APICloud-com/Sublime-APICloud-Snippet",
 			"labels": ["javascript", "snippets"],
@@ -1425,6 +1447,17 @@
 			"name": "AppendSemiColon",
 			"details": "https://github.com/MauriceZ/AppendSemiColon",
 			"labels": ["text manipulation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Apple II BASIC",
+			"details": "https://github.com/ksherlock/BASIC.tmbundle",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
